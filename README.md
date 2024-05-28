@@ -44,21 +44,25 @@ Projeto disciplina DM117 - Pós Graduação Inatel
     - https://assetstore.unity.com/packages/3d/environments/lowpoly-server-room-props-197268
   - Melhorias e alterações feitas por mim.
     - Criado e inserido animação de abertura. Inserido mudança de cena.
+    - Criado scripts e controllers.
 - Tela de Instruções
   - Assets, criação da cena e chamada para mudança de cena
     - Criados localmente por mim.
+    - Criação de scripts e controller.
 - Labirinto (Jogo)
   - Assets e geração do labirinto
     - https://assetstore.unity.com/packages/tools/modeling/maze-generator-38689
   - Melhorias e alterações feitas por mim.
     - Inserido personagem, barra de energia, cronometro, nome do player, pontuação
     - Criado mudança de cena ao finalizar o jogo.
+    - Criação de scripts e controller.
 - Tela de fim de Jogo
   - Assets
     - https://www.mixamo.com/#/?page=1&type=Character (Mousey)
   - Melhorias e alterações feitas por mim.
     - Inserido personagem com animação, botão para reiniciar, e criação da cena.
-    - Criado mudança de cena ao reiniciar o jogo.  
+    - Criado mudança de cena ao reiniciar o jogo.
+    - Criação de scripts e controller.
 
 ---
 
